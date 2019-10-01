@@ -42,7 +42,7 @@ To make the website look appealing on both mobile and desktop.
 
 ####Site Map 
 
-![](sitemap.png)
+![](Sitemap.png)
 
 The website will contain the following pages. 
 
