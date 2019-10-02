@@ -62,6 +62,46 @@ The website will contain the following pages.
 
 he other pages should link to the Geneology section of the website which will then be self-contained. I think this is the best way to organise it. 
 
+#### Mockups and Design 
+
+##### HOME PAGE 
+
+![](designphotos/homepage.png)
+
+##### FAMILY ORIGINS PAGE
+
+![](designphotos/familyorigins.png)
+
+##### IMPORTANT PLACES PAGE
+
+![](designphotos/importantplaces.png)
+
+
+##### INFLUENCIAL PEOPLE PAGE
+
+###### Desktop 
+
+![](designphotos/influencialpeopledesktop.png)
+
+###### Mobile 
+
+![](designphotos/influencialpeoplemobile.png)
+
+
+##### MEMBERS AREA PAGE
+
+![](designphotos/memberssection.png)
+
+##### GENEOLOGY GENERATION PAGE
+
+###### Desktop 
+
+![](designphotos/templetegenerationpage.png)
+
+###### Mobile 
+
+![](designphotos/williamhenrypage.png)
+
 
 
 #### Information for website pages 
