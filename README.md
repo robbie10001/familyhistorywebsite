@@ -6,7 +6,9 @@ I have done a lot of research into my family history. I would like to make a web
 
 #### Tech Stack
 
-I will employ CSS and HTML through the use of SASS. I will also try and add some JAVA script minimally to the site, to gain some knowledge of this programming language. Ruby on Rails will also be used to create a sign up page and an emailing list for those who are interested in the site. The website will originally be hosted on Netlify 
+#LOOK INTO SVG AT THINK ABOUT IMPLEMENTING INTO MY WEBSITE
+
+I will employ CSS and HTML through the use of SASS. I will also try and add some JAVA script minimally to the site, to gain some knowledge of this programming language. Ruby on Rails will also be used to create a sign up page and an emailing list for those who are interested in the site. The website will originally be hosted on Netlify, 
 
 #### Target Audience/Engaging Audience
 
@@ -39,6 +41,10 @@ Use of Flexboxes to make the images in the page work well.
 ##### Media Breakpoints 
 
 To make the website look appealing on both mobile and desktop. 
+
+### Potential features to add in the future not in inital build. 
+
+
 
 #### Site Map 
 
